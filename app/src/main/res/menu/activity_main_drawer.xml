@@ -51,7 +51,18 @@
             </group>
         </menu>
     </item>
-
+<item android:title="Команды">
+    <menu>
+        <item
+            android:id="@+id/Cheats"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Читы" />
+        <item
+            android:id="@+id/Serv"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Сервер" />
+    </menu>
+</item>
     <item android:title="Communicate">
         <menu>
             <item
