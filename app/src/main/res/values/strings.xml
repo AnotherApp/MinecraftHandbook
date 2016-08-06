@@ -5,4 +5,14 @@
     <string name="navigation_drawer_close">Close navigation drawer</string>
 
     <string name="action_settings">Settings</string>
+
+    <string name="menuItemItems">Предметы</string>
+    <string name="menuItemCreatures">Существа</string>
+    <string name="menuItemPotion">Зельеварение</string>
+    <string name="menuItemEnch">Зачарование</string>
+    <string name="menuItemBioms">Биомы</string>
+    <string name="menuItemCmd">Команды</string>
+    <string name="menuItemMods">Моды</string>
+    <string name="menuItemHist">История обновлений</string>
+    <string name="menuItemAbout">О программе</string>
 </resources>
